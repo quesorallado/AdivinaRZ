@@ -1,0 +1,23 @@
+body{
+    background: rgb(190, 233, 241);
+    text-align: center;
+}
+
+.login_div1,.login_div2{
+background-color: aquamarine;
+padding: 10px;
+float: none;
+border-radius: 15px;
+}
+button{
+background-color: skyblue !important;
+padding: 25px !important;
+font-size: 30px !important;
+}
+#output{
+background-color: powderblue;
+border-radius: 10px;
+padding:10px;
+float: none;
+text-align: center;
+}
